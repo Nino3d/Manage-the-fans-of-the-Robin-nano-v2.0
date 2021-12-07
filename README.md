@@ -1,0 +1,2 @@
+# Manage-the-fans-of-the-Robin-nano-v2.0
+I have a robin nano v2.0 and the fan that cools the print does not turn on and the other extruder fan is always on at maximum, I would like to manage the outputs PB1 and PC14 in the configuration_adv.h I have already activated * define FAN_PIN but I don't know what are the corresponding pins, can you help me? I state that the PB1 output works because I was able to configure it and it worked until I restored an earlier version of the firmware and did not save and now I can no longer remember how I did it.
